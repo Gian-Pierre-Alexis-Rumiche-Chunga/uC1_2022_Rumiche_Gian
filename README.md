@@ -11,8 +11,12 @@ Entorno:MPLAB X IDE
 Lenguaje:ASM - C
 
 UNIVERSIDAD NACIONAL DE PIURA,PERU
+# TE1:Libreria para implementacion de Retardos.
+ 
+En la presente libreria podremos encontrar retardos implementados en ms y en us en los cuales vamos a usar una frecuencia de oscilador 4MHz 
 
-# Practica de Puertos:
+
+# TE2 : Practica de Puertos.
 
 1 .P1-Corrimiento_Leds.X
 
