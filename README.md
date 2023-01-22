@@ -6,7 +6,7 @@ Autor:Gian Pierre Alexis Rumiche Chunga
 
 Tarjeta:Curiosity Nano PIC18F57q84
 
-Entorno:MPLAB X IDE
+Entorno:MPLAB X IDE v6.05
 
 Lenguaje:ASM - C
 
