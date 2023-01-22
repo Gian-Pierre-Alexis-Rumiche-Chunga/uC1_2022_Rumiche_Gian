@@ -12,5 +12,13 @@ Lenguaje:ASM - C
 
 UNIVERSIDAD NACIONAL DE PIURA,PERU
 
-#Practica de Puertos:
+# Practica de Puertos:
+
+1 .P1-Corrimiento_Leds.X
+
+El presente programa presenta un corrimiento de leds conectados al puerto C, para un corrimiento impar hay un retardo de 250 ms  para un retardo  par hay un retardo de 500ms.
+
+2 .P2-Display_7SEG.X
+
+El presente programa presenta un conteo Alfanumerico , cuando no se tiene presionado el boton cuenta de 1 a 9 siembargo si nosotros tenemos el boton presionado cuenta del A al F
 
